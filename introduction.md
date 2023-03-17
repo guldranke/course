@@ -34,7 +34,7 @@ I dette forløb bruger vi C# da det er et high-level sprog med fokus på vigtige
 
 #### Introduktion
 
-Da vi arbejder med C#, vil jeg anbefale at læse [dokumentation fra Microsoft](https://learn.microsoft.com/en-us/docs/)
+Da vi arbejder med C#, vil jeg anbefale at læse [dokumentation fra Microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 Åbn dit "Console App" projekt, hvis du ikke har lavet noget ændringer, så burde det at se sådan her ud:
 
