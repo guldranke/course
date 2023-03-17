@@ -43,6 +43,9 @@ Da vi arbejder med C#, vil jeg anbefale at læse [dokumentation fra Microsoft](h
 Vi gennemgår hurtigt nogen data typer og efter gennemgår vi nogen af de introduktioner lavet af Microsoft
 
 [Hello World](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=1)
+
 [Numbers in C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?tutorial-step=1)
+
 [Branches and loops](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/branches-and-loops?tutorial-step=1)
+
 [Data collections](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/list-collection?tutorial-step=1)
